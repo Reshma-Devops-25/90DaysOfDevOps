@@ -1,0 +1,140 @@
+My understanding of DevOps and Cloud Engineering?
+
+ - DevOps is a combination of Development(Dev) and Operations(Ops).It is a culture and set of practices that help teams to build, test and release software faster with more reliably and scalability.
+  Plan -> Devlop -> Build -> Test -> Release -> Deploy -> Operate -> Monitor -> Plan
+
+- Cloud engg is the technical specialization focused on building, managing and securing the scalable infrastructure and platforms(AWS, Azure, GCP)that host these Applikation.
+
+Why is DevOps used?
+ - Traditionally development and Operations teams works separately often led to
+   > Delays releases
+   > Manual errors
+   > Communication gaps
+   > Slow issue resolution
+
+ -> DevOps helps overcome these challenges through :
+   > Automation
+   > Continuous Integration and Continuous Delivery(CI/CD)
+   > Team collaboration.
+   > Faster deployments
+   > Improved software quality
+   > Better Monitoring and reliability
+
+I started learning DevOps & Cloud?
+ - As an automation engineer did not get chance to explore more on other tools.
+ - I want to build strong practical skills, gain hands-on experience, and become job-ready in DevOps and Cloud.
+ - I want to get AWS certification.
+  
+My End Goal
+- Become independent self learner to Troubleshoot problem
+- Become a skilled DevOps engineering
+- Get good job opportunity in cloud/DevOps
+- Continuous growth in IT Industry.
+
+
+My current level
+ - Currently working as Manual tester/Healthcare Domain/ Medical device testing/ Cyber security testing  / selenium/ Squish/ Core JAVA/ Core Python 
+
+
+My Goals for the next 90 days
+ - Complete Linux hands on from basics to advanced level.
+ - Learn Docker, terraform and Kubernetes fundamentals.
+ - Understand CI/CD pipelines and automation.
+ - Build real world DevOps project.
+ - Stay consistent and continuity with daily hands on practice.
+ 
+
+Core DevOps skills I want to build 
+ - Creating CI/CD Pipelines.
+ - AWS / Cloud fundamentals.
+ - Networking Basics
+ - Linux, Docker, K8s, Terraform
+
+My Weekly time budget
+ - weekly 3-3.5 hrs
+ - Weekend 5-6 hrs
+
+
+Final Note
+- This challenge is not only about learning tools for me — it is about rebuilding my career with consistency, continuity, speed and confidence. I am ready to learn every day and move one step closer to become a DevOps Engineer.
+- Want to come out of Manual testing and get job ready with skilled DevOps Engg.
+
+-----------------------------------------------------------------------------------------------------------------------
+				DAY 2
+
+The core components of Linux (kernel, user space, init/systemd)
+
+   Hardware: Physical devices like CPU, RAM, Disk and Network Devices.
+   Kernel : Core of Linux that manages processes, memory, devices and system resources.
+   User Space: Area where users and applications run.
+   Shell: The user interface or Command Line Interface used to interact with kernel.
+   Systemd: First process (PID 1) responsible for managing services  and system startups.
+
+Processes in Linux
+ - A process is a running instance of program.
+
+  Examples:
+	- nginx
+	- sshd
+        - docker
+	- Python
+
+- Each process has a unique process ID (PID)
+
+common commands
+ - ps aux
+ - top
+ - htop
+	
+ 
+ The core 5 Process states are:
+ - Running (R): Process actively using CPU.
+ - Sleeping (S): Process is waiting for an event or resource.
+ - Stopped (T):  Process execution is paused.
+ - Zombie (Z): Process has completed execution but still exists in process table.
+ 
+
+What systemd does 
+ - Systemd is the core system manager in Linux.
+ - systemd is init system used by modern Linux distributions. 
+ - Responsibilities:
+	- Starts services during Boot
+	- Manages system services
+	- Handle service failures 
+	- Controls startup sequence   
+
+  systemctl start nginx
+  systemctl stops nginx
+  systemctl status nginx
+ 
+5 commands used daily
+ ps -  View running processes
+ top - Monitor system resources in real time 
+ systemctl - manages services
+ df -h - check disk usage
+ free -h - check memory usage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
